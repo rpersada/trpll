@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace pref="24" max="32767" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="172" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="kategori1button" max="32767" attributes="0"/>
+                              <Component id="kategori5button" min="-2" pref="88" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="kategori2button" max="32767" attributes="0"/>
+                              <Component id="kategori6button" min="-2" pref="90" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="kategori3button" max="32767" attributes="0"/>
+                              <Component id="kategori7button" min="-2" pref="85" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="kategori4button" max="32767" attributes="0"/>
+                              <Component id="kategori8button" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="Kembalibutton" min="-2" pref="113" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="430" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="73" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="54" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="kategori4button" pref="67" max="32767" attributes="0"/>
+                      <Component id="kategori2button" max="32767" attributes="0"/>
+                      <Component id="kategori1button" max="32767" attributes="0"/>
+                      <Component id="kategori3button" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="kategori8button" pref="70" max="32767" attributes="0"/>
+                      <Component id="kategori5button" max="32767" attributes="0"/>
+                      <Component id="kategori6button" max="32767" attributes="0"/>
+                      <Component id="kategori7button" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="138" max="32767" attributes="0"/>
+                  <Component id="Kembalibutton" min="-2" pref="35" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="kategori1button">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori 1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="kategori2button">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori 2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="kategori3button">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori 3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="kategori4button">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori 4"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="kategori5button">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori 5"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="kategori6button">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori 6"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="kategori7button">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori 7"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="kategori8button">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kategori 8"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="Kembalibutton">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kembali"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KembalibuttonActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
